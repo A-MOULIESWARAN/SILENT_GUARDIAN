@@ -27,10 +27,10 @@ You can read the full report here:
 ## 🖼️ Images
 
 ### Circuit Diagram
-![Circuit Diagram](images/circuit_schematic.png)
+![Circuit Diagram](images/circuit_schematic.jpg)
 
 ### Silent Guardian Diagram
-![Prototype Diagram](images/silent_guardian_image.png)
+![Prototype Diagram](images/silent_guardian_image.jpg)
 
 ---
 
